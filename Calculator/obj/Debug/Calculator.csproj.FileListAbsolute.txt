@@ -1,0 +1,9 @@
+c:\users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\jripponx\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\jripponx\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.btnSubtract.resources
